@@ -133,7 +133,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-emerald-500 translate-x-2 translate-y-2 group-hover:translate-x-1 group-hover:translate-y-1 transition-all duration-350 z-0" />
                 <div className="relative z-10 border border-white bg-[#070707] p-1.5 shadow-xl">
                   <img 
-                    src="/src/assets/images/andika_real_photo_1781933636114.jpg" 
+                    src="/assets/images/andika_real_photo_1781933636114.jpg"
                     alt="Andika Marvelino Putra" 
                     className="w-32 h-32 md:w-36 md:h-36 object-cover grayscale hover:grayscale-0 transition-all duration-500 cursor-crosshair"
                     referrerPolicy="no-referrer"
@@ -207,7 +207,7 @@ export default function App() {
             <span className="text-[10px] text-[#10b981] font-mono uppercase tracking-widest font-extrabold mb-4">01 // TARGET GRADE</span>
             <div>
               <span className="text-3xl font-display font-black text-white block">2027</span>
-              <span className="text-xs text-slate-500 font-mono">TKJT SMK Wikrama</span>
+              <span className="text-xs text-slate-500 font-mono">TJKT SMK Wikrama</span>
             </div>
           </div>
 
